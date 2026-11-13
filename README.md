@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**adarshbaby25/adarshbaby25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Adarsh Baby 👋
 
-Here are some ideas to get you started:
+### Computer Science Student at the University of Illinois Chicago
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I'm a Computer Science student at UIC with an interest in software engineering and building practical applications. I enjoy working on projects that challenge my problem-solving skills and help me gain experience with new technologies.
+
+## Technical Skills
+- **Languages:** Java, Python, C, C++, SQL
+- **Tools:** Git, GitHub, VS Code, Maven, Linux, Arduino IDE
+- **Technologies:** JavaFX, FXML, Git, REST APIs
+
+## Featured Projects
+### Weather Information Dashboard
+A JavaFX application that retrieves weather data for multiple cities using the Open-Meteo API. It includes both programmatic and FXML-based user interfaces.
+
+### Arduino Embedded Systems Projects
+A collection of microcontroller projects involving sensors, LCD displays, LEDs, and serial communication.
+
+## Currently Learning
+- Software design and development
+- Algorithms and data structures
+- Building maintainable applications
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/adarshbabyy/
+  
